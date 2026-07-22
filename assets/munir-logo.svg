@@ -1,0 +1,46 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 512 512"
+  role="img"
+  aria-labelledby="title"
+>
+  <title id="title">MUNIR logo</title>
+
+  <rect
+    width="512"
+    height="512"
+    rx="128"
+    fill="#123f36"
+  />
+
+  <path
+    d="
+      M128 352
+      V160
+      H184
+      L256 258
+      L328 160
+      H384
+      V352
+      H326
+      V248
+      L256 342
+      L186 248
+      V352
+      Z
+    "
+    fill="#f8f5ed"
+  />
+
+  <path
+    d="
+      M240 120
+      H272
+      V202
+      L256 226
+      L240 202
+      Z
+    "
+    fill="#b89555"
+  />
+</svg>
